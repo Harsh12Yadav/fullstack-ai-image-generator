@@ -1,7 +1,7 @@
 A full-stack AI-based image generator built with the MERN stack. Users can enter prompts to generate stunning images powered by AI, upload images to the cloud, and explore a community feed.
 
 🚀 Live Demo:-
-👉 Frontend URL (if deployed)
+👉 Frontend URL (deployed)- https://openai-imagegenerate.netlify.app/
 👉 Backend URL (Render)
 
 📌 Features:-
